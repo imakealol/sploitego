@@ -40,7 +40,7 @@ setup(
         'lxml'
     ],
     dependency_links=[
-        'http://www.secdev.org/projects/scapy/files/'
+        'src/scapy_2.1.0.orig (1).tar.gz'
     ]
 )
 
